@@ -1,0 +1,14 @@
+{
+  "name": "skw-jweixin",
+  "version": "1.0.0",
+  "description": "jweixin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jweixin1.6.0"
+  ],
+  "author": "281431280@qq.com",
+  "license": "MIT"
+}
